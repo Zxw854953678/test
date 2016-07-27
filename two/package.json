@@ -1,0 +1,15 @@
+{
+  "name": "two",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jasmine": "^2.4.1",
+    "mock-stdin": "^0.3.0"
+  }
+}
